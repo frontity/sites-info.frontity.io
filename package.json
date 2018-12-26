@@ -1,0 +1,30 @@
+{
+  "name": "frontity-sites-info",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "grommet": "2.0.1",
+    "grommet-icons": "3.2.1",
+    "lokka": "1.7.0",
+    "lokka-transport-http": "1.6.1",
+    "mobx": "5.6.0",
+    "mobx-react-lite": "0.3.2",
+    "mobx-state-tree": "3.8.1",
+    "polished": "2.3.0",
+    "react": "16.7.0-alpha.2 - next",
+    "react-dom": "16.7.0-alpha.2 - next",
+    "react-scripts": "2.0.3",
+    "styled-components": "4.1.1",
+    "superagent": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
